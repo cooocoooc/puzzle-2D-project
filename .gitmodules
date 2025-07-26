@@ -1,3 +1,6 @@
 [submodule "base/code"]
 	path = base/code
 	url = git@github.com:cooocoooc/machine-learning-project.git
+[submodule "experiments/DiffAssemble/code"]
+	path = experiments/DiffAssemble/code
+	url = https://github.com/IIT-PAVIS/DiffAssemble.git
