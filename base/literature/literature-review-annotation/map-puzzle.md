@@ -10,11 +10,13 @@ created: 2026-06-08
 
 ## 📌 outstanding 
 - [[Puzzle for one/Note/1963-edge-shape matching-distinct]]
+- [[Puzzle for one/Note/1982-edge-boundary matching-distinct]]
 - [[Puzzle for one/Note/2002-edge-points matching]]
 
 ## 🗂️ classification 
 ### line
 - [[Puzzle for one/Note/1963-edge-shape matching-distinct]]
+- [[Puzzle for one/Note/1982-edge-boundary matching-distinct]]
 - [[Puzzle for one/Note/2002-edge-points matching]]
 - [[Puzzle for one/Note/2008-edge-feature-similarity]]
 ### color

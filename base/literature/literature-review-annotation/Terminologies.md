@@ -16,15 +16,23 @@ Given K cities and the d istances between each pair o f them, find the shortest 
 > [!PDF|red] [[2021-Solving archaeological puzzles-annotation.pdf#page=4&selection=1400,1,1615,0&color=red|2021-Solving archaeological puzzles-annotation, p.4]]
 > >  The **configuration space** is defined as the set of points such that the corresponding placement of R after rotation by θ intersects P. This can be efficiently computed by the Minkowski sum operator 
 
-> [!PDF|red] [[2021-Solving archaeological puzzles-annotation.pdf#page=7&selection=908,0,946,0&color=red|2021-Solving archaeological puzzles-annotation, p.7]]
-> >  two pieces are **best buddies** if they both agree that the other piece is their most likely neighbor.
-> 
+> [!PDF|red] [[2011_A_fully_automated_greedy_square_jigsaw_puzzle_solver_annotation.pdf#page=4&selection=216,2,217,51&color=red|2011_A_fully_automated_greedy_square_jigsaw_puzzle_solver_annotation, p.12]]
+> > two parts are **best buddies** if both “agree” that the other part is their most likely neighbor in a certain spatial relation
 
+ 
 > [!PDF|red] [[2024-Geng_Visual_Anagrams_Generating_Multi-View_Optical_Illusions_with_Diffusion_Models_CVPR_2024_paper_annotation.pdf#page=2&selection=4,26,9,20&color=red|2024-Geng_Visual_Anagrams_Generating_Multi-View_Optical_Illusions_with_Diffusion_Models_CVPR_2024_paper_annotation, p.2]]
 > > a visual anagram—an image that changes appearance under some rearrangement of pixels.
 > 
 
+
 > [!PDF|red] [[2024-Geng_Visual_Anagrams_Generating_Multi-View_Optical_Illusions_with_Diffusion_Models_CVPR_2024_paper_annotation.pdf#page=2&selection=96,1,105,11&color=red|2024-Geng_Visual_Anagrams_Generating_Multi-View_Optical_Illusions_with_Diffusion_Models_CVPR_2024_paper_annotation, p.2]]
 > > Diffusion models are a class of powerful generative models that iteratively convert a sample from a noise distribution to a sample from some data distribution. These models work by estimating the noise in a noisy sample, and removing the estimated noise following some update rule such as DDPM or DDIM 
+> 
+> 
+
+> [!PDF|red] [[1982-Jigsaw puzzle matching using a boundary-centered polar encoding.pdf#page=2&selection=349,0,497,7&color=red|1982-Jigsaw puzzle matching using a boundary-centered polar encoding, p.2]]
+> > (1) “Where to start?” Find points on curves 1 and 2 that correspond. These will be called **match points**. 
+> > (2) “Which way to go ?” Find the orientation of curve 2 with respect to curve 1 that allows the best match. One natural way to specify this is as a rotation around the match point. The angle of this rotation will be called the **match angle**. 
+> > (3) “How far to go?’ Determine what are the matching segments of curves 1 and 2. The matching segments must be connected boundary segments containing the match points. The length of these segments (they should be roughly the same) will be called the **match length**.
 > 
 > 
