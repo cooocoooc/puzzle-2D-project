@@ -34,5 +34,11 @@ Given K cities and the d istances between each pair o f them, find the shortest 
 > > (1) “Where to start?” Find points on curves 1 and 2 that correspond. These will be called **match points**. 
 > > (2) “Which way to go ?” Find the orientation of curve 2 with respect to curve 1 that allows the best match. One natural way to specify this is as a rotation around the match point. The angle of this rotation will be called the **match angle**. 
 > > (3) “How far to go?’ Determine what are the matching segments of curves 1 and 2. The matching segments must be connected boundary segments containing the match points. The length of these segments (they should be roughly the same) will be called the **match length**.
+
+> [!PDF|] [[2020-Novel clustering-based pruning algorithms_annotation.pdf#page=1&selection=55,5,59,45|2020-Novel clustering-based pruning algorithms_annotation, p.1049]]
+> > **Heterogeneous classifiers** derive, e.g., from employing various learning algorithms to the same training data, while **homogeneous classifiers** employ different executions of the same learning algorithm (e.g., by differentiating parameters or using different learning set partitions).
+
+> [!PDF|] [[2025-ReassembleNet-Learnable Keypoints and Diffusion for 2D Fresco Reconstruction_annotation.pdf#page=4&selection=97,6,101,43|2025-ReassembleNet-Learnable Keypoints and Diffusion for 2D Fresco Reconstruction_annotation, p.4]]
+> > FPS is a well-established technique in the field of 3D point cloud processing and geometric sampling. It iteratively selects the point that is furthest from the current set, ensuring maximum dispersion throughout the entire data space
 > 
 > 
